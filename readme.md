@@ -22,7 +22,7 @@ Para levantar la aplicación y la base de datos, no necesitas tener instalado No
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/jamarantog95/reto29junio.git>
    cd reto
 
 2. **Construir e iniciar los contenedores:**
